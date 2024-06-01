@@ -2,7 +2,19 @@
 
 In this lab, we will be selecting and installing a motherboard for a new computer system, connecting the case cables, and the power supply connectors. Follow the steps below to complete the installation.
 
+
+<h1><b>Scenario</b></h2>
+You work at a computer repair store. You are in the process of building a new computer system. The customer wants a motherboard with the following features:
+- 16x PCI Express slot for video card support
+- M.2 storage support
+- Support for 64-bit processors
+- Dual-channel memory support
+- Support for up to 64 GB of memor
+
 ## Step 1: Select the Motherboard
+
+
+![Motherboard Specs](https://github.com/K4iju/Hardware/assets/159083256/938af433-29c8-4cba-9660-9e89e3f28245)
 
 Ensure the motherboard meets the following requirements:
 - 16x PCI Express slot for video card support
