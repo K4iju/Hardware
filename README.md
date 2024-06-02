@@ -4,4 +4,4 @@
 
 |Projects|Skills|
 |--------|--------|
-|Installing motherboard|familiarity with hardware components|
+|Installing motherboard|connect motherboard and cables, onboard specified motherboard|
