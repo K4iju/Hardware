@@ -1,6 +1,6 @@
 <h1>Hardware</h1>
 
-<h2>These projects are virtualized from <a <a href="https://www.testout.com/labsim">testoutlabs.com!</a></h2>
+<h2>These are virtual labs from <a <a href="https://www.testout.com/labsim">testoutlabs.com!</a></h2>
 
 |Projects|Skills|
 |--------|--------|
