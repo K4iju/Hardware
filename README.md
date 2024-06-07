@@ -5,3 +5,4 @@
 |Projects|Skills|
 |--------|--------|
 |Installing motherboard|connect motherboard and cables, onboard specified motherboard|
+|Troubleshoot power suupply|Diagnose failed power supply, Indicated correct specifications, Installed new power supply|
