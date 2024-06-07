@@ -13,11 +13,14 @@ You work at a computer repair store. A customer brought in a computer and asked 
 
 ### Steps to Resolve
 
+![Failed](https://github.com/K4iju/Hardware/assets/159083256/c5c3318e-f804-4a5c-8af8-6cdd9835ee17)
 
 1. **Attempt to Power On the Computer**
    - On the computer, select the power button.
    - Select OK to close the prompt indicating that the computer failed to run.
    - This is most likely due to the computer not getting power.
+
+![Female connector](https://github.com/K4iju/Hardware/assets/159083256/630319f7-19a1-49f1-b62b-c37d4da8e291)
 
 2. **Provide Power to the Computer**
    - Above the computer, select Back.
@@ -26,9 +29,13 @@ You work at a computer repair store. A customer brought in a computer and asked 
    - From the Selected Component pane, drag the AC Power Connector (Male) to an open outlet on the wall plate.
    - Above the computer, select Front and then select the power button.
 
+![Failed](https://github.com/K4iju/Hardware/assets/159083256/c5c3318e-f804-4a5c-8af8-6cdd9835ee17)
 3. **Check if the Computer Powers On**
    - The computer still won't start.
    - Select OK to close the prompt.
+
+![panel](https://github.com/K4iju/Hardware/assets/159083256/6f201704-9820-4cf9-9d46-4d43ea248fa9)
+
 
 4. **Connect the Case's Power Switch to the Motherboard Header**
    - Above the computer, select Motherboard.
@@ -38,9 +45,14 @@ You work at a computer repair store. A customer brought in a computer and asked 
    - If needed, view the motherboard details to find the connection areas.
    - Above the computer, select Front and then select the power button.
 
+![image](https://github.com/K4iju/Hardware/assets/159083256/8c5ba5ba-0658-459a-abf2-ce8ed920c552)
+![image](https://github.com/K4iju/Hardware/assets/159083256/232e688a-3ddb-47f8-85a6-fb3054c13a9a)
+
+
 5. **Check if the Computer Boots**
    - The computer boots to Windows, but soon powers off. This is typically caused by the computer overheating.
    - Select OK to close the prompt.
+![image](https://github.com/K4iju/Hardware/assets/159083256/a1c3bf1c-0d1e-48bd-8004-944bb9dab291)
 
 6. **Provide Power to the Heat Sink and Fan**
    - Above the computer, select Motherboard.
@@ -50,6 +62,7 @@ You work at a computer repair store. A customer brought in a computer and asked 
    - Above the computer, select Front.
    - On the computer, select the power button.
    - The computer powers on and stays on.
+![image](https://github.com/K4iju/Hardware/assets/159083256/4be5ace2-677b-45b3-a4c0-1085f694908f)
 
 7. **Verify Hardware Recognition**
    - Verify that the memory (12 GB), two hard drives, and an optical drive are recognized.
